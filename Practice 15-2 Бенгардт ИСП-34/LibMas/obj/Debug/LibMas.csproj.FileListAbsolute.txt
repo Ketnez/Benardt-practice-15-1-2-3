@@ -1,0 +1,5 @@
+C:\Users\Исп-34\source\repos\Practice2 Бенгардт ИСП-34\LibMas\bin\Debug\LibMas.dll
+C:\Users\Исп-34\source\repos\Practice2 Бенгардт ИСП-34\LibMas\bin\Debug\LibMas.pdb
+C:\Users\Исп-34\source\repos\Practice2 Бенгардт ИСП-34\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\Исп-34\source\repos\Practice2 Бенгардт ИСП-34\LibMas\obj\Debug\LibMas.dll
+C:\Users\Исп-34\source\repos\Practice2 Бенгардт ИСП-34\LibMas\obj\Debug\LibMas.pdb
