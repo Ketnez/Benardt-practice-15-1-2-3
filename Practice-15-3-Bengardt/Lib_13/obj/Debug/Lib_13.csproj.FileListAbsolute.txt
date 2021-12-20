@@ -1,0 +1,6 @@
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\bin\Debug\Lib_13.dll
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\bin\Debug\Lib_13.pdb
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\obj\Debug\Lib_13.csproj.AssemblyReference.cache
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\obj\Debug\Lib_13.csproj.CoreCompileInputs.cache
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\obj\Debug\Lib_13.dll
+C:\Users\Исп-34\source\repos\Practice-3-Bengardt\Lib_13\obj\Debug\Lib_13.pdb
